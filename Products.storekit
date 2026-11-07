@@ -1,0 +1,43 @@
+{
+  "identifier" : "OpsDeckStoreKit",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "OPSDECK-PRO-LIFETIME",
+      "localizations" : [
+        {
+          "description" : "Unlock unlimited servers, uploads, remote editing, command snippets, transfer history, and Pro security options forever.",
+          "displayName" : "OpsDeck Pro Lifetime",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "一次性买断，永久解锁无限服务器、上传、远程编辑、命令片段、传输历史和 Pro 安全选项。",
+          "displayName" : "OpsDeck Pro 永久版",
+          "locale" : "zh_Hans"
+        },
+        {
+          "description" : "一次性買斷，永久解鎖無限伺服器、上傳、遠端編輯、命令片段、傳輸歷史和 Pro 安全選項。",
+          "displayName" : "OpsDeck Pro 永久版",
+          "locale" : "zh_Hant"
+        }
+      ],
+      "productID" : "com.hansen.opsdeck.pro.lifetime",
+      "referenceName" : "OpsDeck Pro Lifetime",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "OpsDeck"
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

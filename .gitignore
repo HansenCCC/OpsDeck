@@ -1,0 +1,15 @@
+.DS_Store
+build/
+build-*/
+DerivedData/
+.swiftpm/
+*.xcuserstate
+xcuserdata/
+*.xcarchive
+*.dSYM/
+*.xcresult/
+*.release.xcconfig
+.env
+.env.*
+!.env.example
+.secrets/
